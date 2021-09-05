@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @JafetMorales-438, student of Computer Systems Engineering.
 - 👀 I’m interested in web programming.
 - 🌱 I’m currently learning:
-            1.- Java
-            2.- HTML5
-            3.- CSS3
-            4.- JavaScript
-            5.- Angular
-            6.- Python
+-            1.- Java
+-            2.- HTML5
+-            3.- CSS3
+-            4.- JavaScript
+-            5.- Angular
+-            6.- Python
 - 💞️ I’m looking to collaborate on ... (No one at the moment)
 - 📫 How to reach me ...(None)
 
